@@ -50,4 +50,4 @@ function closeUserSection(){
 
 
 }
-document.addEventListener('click', handleClicks)
+document.addEventListener('click', handleClicks);
