@@ -6,11 +6,9 @@ Key features:
 2. Search:  You can perform Search on each columns and rows and show matching fields.
 3.Simple UI:  Simple and Easy UI for better interaction.
 
-# Download and Set Mongoose Connection and Type npm start in terminal.
-# Demo: https://csv-upload-gd0p.onrender.com/
+# Demo: https://csv-upload-ghcw.onrender.com
 
-I will be improving it soon for pagination and more cool features.
-
-<!-- http://qureshiyusuf.com.github.io/CSV-Upload -->
-
-<!-- mongodb://localhost:27017/ -->
+STEPS TO USE THE APPLICATION:
+1) Download and Set Mongoose Connection
+2) Run `npm install` to install required dependencies
+3) Type npm start in terminal
