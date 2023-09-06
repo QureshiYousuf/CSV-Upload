@@ -14,7 +14,7 @@ h1{
     border: 1px solid rgb(143, 143, 143);
     width: 400px;
     height: 30px;
-    border-radius: 5px;
+    border-radius: 30px;
     margin: 20px auto;
     display: flex;
     overflow: hidden;
