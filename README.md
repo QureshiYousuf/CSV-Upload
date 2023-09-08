@@ -10,9 +10,9 @@ The main purpose of the application is to provide a user-friendly interface for 
 ### 🔗 Video link of Our CSV-Upload explanation: https://drive.google.com/file/d/1lt0GA68RteR1SleAjZF4wJHeLphqnlzW/view?usp=sharing
 
 ## 💥 STEPS TO USE THE APPLICATION:
-- 1) Download and Set Mongoose Connection
-- 2) Run `npm install` to install required dependencies
-- 3) Type npm start in terminal
+1) Download and Set Mongoose Connection
+2) Run `npm install` to install required dependencies
+3) Type npm start in terminal
 
 
 ## 👦 Developed By:
